@@ -1,1 +1,4 @@
-# Detection_LSP
+# Intalacion de requerimientos
+```sh
+pip install requirements.txt
+```
